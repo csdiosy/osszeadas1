@@ -1,5 +1,5 @@
 function szamolj1() {
-aler("fuggvenyben vagyok");
+alert("fuggvenyben vagyok");
 };
 
 function szamolj() {
